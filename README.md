@@ -21,7 +21,15 @@ To get started with the CV Generator, follow these simple steps:
 
 This project was built with the following technologies:
 
+
 - HTML
 - CSS
 - JavaScript
 - PHP
+## Screenshot
+![Capture d’écran (27)](https://github.com/ImaneLamrini/Generating-your-CV/assets/125766708/659863a8-a5e5-47ee-83e9-f03cf379a228)
+![Capture d’écran (28)](https://github.com/ImaneLamrini/Generating-your-CV/assets/125766708/4b0ec7d4-b9ec-4f6b-8ec8-25527497ec81)
+![Capture d’écran (31)](https://github.com/ImaneLamrini/Generating-your-CV/assets/125766708/ac657d00-e831-4276-a176-13c5c3b82fe5)
+![Capture d’écran (32)](https://github.com/ImaneLamrini/Generating-your-CV/assets/125766708/c1f1942b-4e0f-40dd-b636-bc1ff987a391)
+
+
